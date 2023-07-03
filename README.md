@@ -19,6 +19,10 @@ The gender count by interest reveals that interest 16 is common among both gende
 
 ![Screenshot_4](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/d8ec1839-bedf-47d7-8140-e31228c6ffc4)
 
-This reveals that interests 16, 10 and 29 respectively are the only interests that lead to purchase.
+This reveals that interests 16, 10 and 29 are the only interests in the top ten that lead to a purchase.
 
 ![Screenshot_5](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/9198880c-bdb1-4a6a-a2d7-aa4e8ba51971)
+
+Campaign C has the highest Ad spend. 
+
+![Screenshot_6](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/6893256d-638e-44d1-b808-74d2e7f906e8)
