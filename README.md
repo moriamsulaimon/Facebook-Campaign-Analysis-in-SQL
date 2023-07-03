@@ -14,3 +14,7 @@ There isn't much difference between the female and male gender count.
 For the gender count by age group, it is discovered that the  age group 30 - 34 has the highest male and female count.
 
 ![Screenshot_3](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/94db0786-6353-4267-aef8-f572c23cecc2)
+
+The gender count by interest reveals that interest 16 is common among both genders.
+
+![Screenshot_4](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/d8ec1839-bedf-47d7-8140-e31228c6ffc4)
