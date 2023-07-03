@@ -18,3 +18,7 @@ For the gender count by age group, it is discovered that the  age group 30 - 34 
 The gender count by interest reveals that interest 16 is common among both genders.
 
 ![Screenshot_4](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/d8ec1839-bedf-47d7-8140-e31228c6ffc4)
+
+This reveals that interests 16, 10 and 29 respectively are the only interests that lead to purchase.
+
+![Screenshot_5](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/9198880c-bdb1-4a6a-a2d7-aa4e8ba51971)
