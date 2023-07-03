@@ -8,3 +8,6 @@ The age group with the highest audience is 30 - 34.
 ![Screenshot_8](https://user-images.githubusercontent.com/113240043/214527105-f97ca2fc-4421-49f0-a338-c54fd9b18f05.png)
 
 There isn't much difference between the female and male gender count. 
+
+![Screenshot_2](https://github.com/moriamsulaimon/Facebook-Campaign-Analysis-in-SQL/assets/113240043/e1c5c168-c37a-4e81-b871-3f4f48bd9dd3)
+
